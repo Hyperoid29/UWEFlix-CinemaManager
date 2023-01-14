@@ -1,0 +1,18 @@
+.slide {
+    margin-top: -65px;
+}
+
+.carousel-inner {
+    background: radial-gradient(#3a3a3a, rgb(0, 0, 0));
+}
+
+.carousel-inner img {
+    height: 600px;
+    margin: 0px auto;
+}
+
+
+#logo {
+    text-decoration: none;
+    color: white;
+}
